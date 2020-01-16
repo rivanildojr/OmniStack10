@@ -1,6 +1,9 @@
 {
-  "expoServerPort": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19003,
+  "packagerPid": 18792,
+  "expoServerNgrokUrl": "https://c5-m32.rivanildojr.mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.c5-m32.rivanildojr.mobile.exp.direct",
+  "ngrokPid": 18817
 }

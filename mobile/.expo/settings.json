@@ -3,6 +3,6 @@
   "lanType": "ip",
   "dev": true,
   "minify": false,
-  "urlRandomness": null,
+  "urlRandomness": "c5-m32",
   "https": false
 }
